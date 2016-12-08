@@ -35,7 +35,7 @@ allem sind wir aber eine Gruppe queerer, bunter Weiblichkeit_en.
 Wir sind alle zwischen 14 und 27 Jahren alt und kommen aus
 unterschiedlichsten Kontexten: Manche von uns arbeiten, manche studieren,
 andere gehen zur Schule, machen Praktika oder schauen noch.",
-                    "Was genau machen diese Dj*s eigentlich wenn sie am Pult stehen? Welche Knopfe drehen, schieben, drucken sie wann und warum und wie machen sie das mit diesen ubergängen? Dieser Workshop bietet eine Einfuhrung zu dem Thema Auflegen mit MP3. Ich erkläre euch grundlegend die Technik mit der ihr es zu tun haben werdet. Ausserdem gibt es eine Einfuhrung in das Programm Traktor. Bitte bringt die Musik mit, mit der ihr umprobieren wollt. (10-15 Songs als Mp3)",
+                    "Was genau machen diese Dj*s eigentlich wenn sie am Pult stehen? Welche Knopfe drehen, schieben, drucken sie wann und warum und wie machen sie das mit diesen ubergangen? Dieser Workshop bietet eine Einfuhrung zu dem Thema Auflegen mit MP3. Ich erklare euch grundlegend die Technik mit der ihr es zu tun haben werdet. Ausserdem gibt es eine Einfuhrung in das Programm Traktor. Bitte bringt die Musik mit, mit der ihr umprobieren wollt. (10-15 Songs als Mp3)",
                     "muerto",
                     "disponible",
                     "no esta en su casa",
