@@ -4,7 +4,7 @@
 //sleep(2);
  
 // "DATABASE"
-$all_names = array(             "Let*s bi Chicks!",
+$all_names = array(             "Lets bi Chicks!",
                     "National Geographic Channelllllllllx",
                     "Dj* Workshop",
                     "Klausurtag Zukunftswerkstatt und Jahresplanung 2017",
@@ -30,12 +30,8 @@ $all_images = array(            "https://www.lambda-bb.de/wp-content/uploads/201
                     "http://api.androidhive.info/feed/img/imagenquenoexiste.jpg",
                     "http://cdn.slashgear.com/wp-content/uploads/2012/07/asdfdsa1.png",
                     );
-$all_status = array( "Wir sind die LeT*s Bi Chicks, was fur lesbisch, bi und trans* steht. Vor
-allem sind wir aber eine Gruppe queerer, bunter Weiblichkeit_en.
-Wir sind alle zwischen 14 und 27 Jahren alt und kommen aus
-unterschiedlichsten Kontexten: Manche von uns arbeiten, manche studieren,
-andere gehen zur Schule, machen Praktika oder schauen noch.",
-                    "Was genau machen diese Dj*s eigentlich wenn sie am Pult stehen? Welche Knopfe drehen, schieben, drucken sie wann und warum und wie machen sie das mit diesen ubergangen? Dieser Workshop bietet eine Einfuhrung zu dem Thema Auflegen mit MP3. Ich erklare euch grundlegend die Technik mit der ihr es zu tun haben werdet. Ausserdem gibt es eine Einfuhrung in das Programm Traktor. Bitte bringt die Musik mit, mit der ihr umprobieren wollt. (10-15 Songs als Mp3)",
+$all_status = array( "Wir sind die LeTs Bi Chicks, was fur lesbisch, bi und trans steht",
+                    "Was genau machen diese Dj*s eigentlich wenn sie am Pult stehen? Welche Knopfe drehen, schieben, drucken sie wann und warum und wie machen sie das mit diesen ubergangen?",
                     "Wir planen das Jahr 2017. Bringt eure Ideen mit.",
 			"muerto",
                     "disponible",
