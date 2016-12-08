@@ -30,18 +30,12 @@ $all_images = array(            "https://www.lambda-bb.de/wp-content/uploads/201
                     "http://api.androidhive.info/feed/img/imagenquenoexiste.jpg",
                     "http://cdn.slashgear.com/wp-content/uploads/2012/07/asdfdsa1.png",
                     );
-$all_status = array( "Wir sind die LeT*s Bi Chícks, was für lesbisch, bi und trans* steht. Vor
+$all_status = array( "Wir sind die LeT*s Bi Chicks, was fur lesbisch, bi und trans* steht. Vor
 allem sind wir aber eine Gruppe queerer, bunter Weiblichkeit_en.
 Wir sind alle zwischen 14 und 27 Jahren alt und kommen aus
 unterschiedlichsten Kontexten: Manche von uns arbeiten, manche studieren,
 andere gehen zur Schule, machen Praktika oder schauen noch.",
-                    "Was genau machen diese Dj*s eigentlich wenn sie am Pult stehen? Welche Knöpfe drehen, schieben, drücken sie wann und warum und wie machen sie das mit diesen Übergängen? Dieser Workshop bietet eine Einführung zu dem Thema Auflegen mit MP3. Ich erkläre euch grundlegend die Technik mit der ihr es zu tun haben werdet. Außerdem gibt es eine Einführung in das Programm Traktor. Bitte bringt die Musik mit, mit der ihr umprobieren wollt. (10-15 Songs als Mp3).
-
-Da ihr ja alle wenn ihr mögt ein bisschen rumprobieren sollen könnt, ist der Workshop auf 6 Personen begrenzt.
-Um Anmeldung wird gebeten unter: iris [punkt] segundo {at} lambda-bb [punkt] de
-
-Referentin: L_Sa hat seit 11 Jahren mit dem Auflegen zu tun. Ihr Herz schlägt für politische Zusammenhänge, die ein freieres bzw. entspannteres Setting ermöglichen, als die meisten Mainstreampartys.",
-                    "Wir planen das Jahr 2017. Bringt eure Ideen mit.",
+                    "Was genau machen diese Dj*s eigentlich wenn sie am Pult stehen? Welche Knopfe drehen, schieben, drucken sie wann und warum und wie machen sie das mit diesen ubergängen? Dieser Workshop bietet eine Einfuhrung zu dem Thema Auflegen mit MP3. Ich erkläre euch grundlegend die Technik mit der ihr es zu tun haben werdet. Ausserdem gibt es eine Einfuhrung in das Programm Traktor. Bitte bringt die Musik mit, mit der ihr umprobieren wollt. (10-15 Songs als Mp3)",
                     "muerto",
                     "disponible",
                     "no esta en su casa",
